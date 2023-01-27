@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "userName": "Daanish Ali",
+      "email": "danish@gmail.com",
+      "password": "123",
+      "id": 1
+    }
+  ],
+  "posts": [
+    {
+      "userName": "Daanish Ali",
+      "email": "danish@gmail.com",
+      "post": "second post",
+      "comments": [],
+      "id": 2
+    }
+  ]
+}
